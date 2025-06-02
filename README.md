@@ -67,7 +67,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/tecnicalwhitehat-yt/tg-phish"><img title="TG-Phish" src="https://github-readme-stats.vercel.app/api/pin/?username=tecnicalwhitehat-yt&repo=tg-phish&theme=outrun"></a>
+  <a href="https://github.com/technicalwhitehat-yt/tg-phish"><img title="TG-Phish" src="https://github-readme-stats.vercel.app/api/pin/?username=technicalwhitehat-yt&repo=tg-phish&theme=outrun"></a>
 </p>
 
 ---
