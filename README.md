@@ -66,9 +66,21 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/technicalwhitehat-yt/tg-phish"><img title="TG-Phish" src="https://github-readme-stats.vercel.app/api/pin/?username=technicalwhitehat-yt&repo=tg-phish&theme=outrun"></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/technicalwhitehat-yt/CookPhish">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technicalwhitehat-yt&repo=CookPhish&theme=shades-of-purple" alt="CookPhish Repo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/technicalwhitehat-yt/tg-phish">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technicalwhitehat-yt&repo=tg-phish&theme=outrun" alt="TG-Phish Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
