@@ -30,7 +30,6 @@
 
 ## 📈 GitHub Stats
 
-<table>
   <tr>
     <td>
       <a href="https://github.com/technicalwhitehat-yt/CookPhish">
@@ -43,7 +42,6 @@
       </a>
     </td>
   </tr>
-</table>
 
 ---
 
