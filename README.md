@@ -38,7 +38,7 @@
     </td>
     <td>
       <a href="https://github.com/technicalwhitehat-yt/tg-phish">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technicalwhitehat-yt&repo=tg-phish&theme=outrun" alt="TG-Phish Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technicalwhitehat-yt&repo=track-down&theme=outrun" alt="track-down Repo" />
       </a>
     </td>
   </tr>
